@@ -1,0 +1,13 @@
+c:\users\hbit\documents\visual studio 2015\Projects\Geometry\Geometry\bin\Debug\Geometry.exe.config
+c:\users\hbit\documents\visual studio 2015\Projects\Geometry\Geometry\bin\Debug\Geometry.exe
+c:\users\hbit\documents\visual studio 2015\Projects\Geometry\Geometry\bin\Debug\Geometry.pdb
+c:\users\hbit\documents\visual studio 2015\Projects\Geometry\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+c:\users\hbit\documents\visual studio 2015\Projects\Geometry\Geometry\obj\Debug\Geometry.exe
+c:\users\hbit\documents\visual studio 2015\Projects\Geometry\Geometry\obj\Debug\Geometry.pdb
+C:\Users\HBiT\Documents\Visual Studio 2015\Projects\Geometry\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\Geometry\Geometry\bin\Debug\Geometry.exe.config
+D:\Geometry\Geometry\obj\Debug\Geometry.exe
+D:\Geometry\Geometry\obj\Debug\Geometry.pdb
+D:\Geometry\Geometry\bin\Debug\Geometry.exe
+D:\Geometry\Geometry\bin\Debug\Geometry.pdb
+D:\Geometry\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
